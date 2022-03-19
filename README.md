@@ -1,7 +1,8 @@
-### Hi there 👋
-
+### Hi there my name is Elias, I'm a Swedish developer👋
+### 🌱 Currently, I am learning machine learning through Kaggle.
+### Don't forget to check out my Kaggle page! https://www.kaggle.com/eliasposluk 
 <!--
-**Elias-Prog-IT/Elias-Prog-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**EliasPos/EliasPos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+  <img align ="left" alt="Elias-Prog-IT's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Elias-Prog-IT&count_private=true&show_icons=true&theme=radical"/> <br />
+
+  <br />
+  <br /><br /><br /><br /><br /><br /><br /><strong>Currently listening to 🎧</strong> <img src="https://novatorem-sepia.vercel.app/api/spotify" alt="Elias-Prog-IT Spotify Playing" width="350"/>
+  
+  
+
