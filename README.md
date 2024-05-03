@@ -1,6 +1,7 @@
 ### Hi there my name is Elias, I'm a Swedish developer👋
 ### 🌱 Currently, I am learning machine learning through Kaggle.
 ### Don't forget to check out my Kaggle page! https://www.kaggle.com/eliasposluk 
+### Or my instagram https://www.instagram.com/eliasposluk/ 
 <!--
 **EliasPos/EliasPos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
